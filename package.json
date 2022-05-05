@@ -1,0 +1,25 @@
+{
+  "name": "tms2",
+  "version": "1.0.0",
+  "description": "ts",
+  "source": "index.html",
+  "scripts": {
+    "test": "Test",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Voris03"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "Voris",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0",
+    "parcel": "^2.5.0",
+    "sass": "^1.51.0"
+  }
+}
